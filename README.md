@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # 💫 About Me:
-I'm currently working on a project migration from ASP.NET MVC to ASP.NET Core 8<br>I'm currently learning React<br>Ask me about Psychology<br>I flew in a Jet as a Copilot
+- 🔭 I’m currently working on a project migration from ASP.NET MVC to ASP.NET Core 8
+- 🌱 I’m currently learning React
+- 💬 Ask me about: Psychology
+- ⚡ Fun fact: I flew in a Jet as a Copilot
 
 
 ## 🌐 Socials:
