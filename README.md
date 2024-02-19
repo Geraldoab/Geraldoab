@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 🔭 I’m currently working on a project migration from ASP.NET MVC to ASP.NET Core 8
+- 🔭 I’m currently working on a project migration from ASP.NET MVC to ASP.NET Core 8 -> ![Private Repository](https://github.com/TecStarStudio)
 - 🌱 I’m currently learning React
 - 💬 Ask me about: Psychology
 - ⚡ Fun fact: I flew in a Jet as a Copilot
