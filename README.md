@@ -19,6 +19,23 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Psychology
 - ⚡ Fun fact: I flew in a Jet as a Copilot
 
+# :bulb: Current personal project:
+
+> Nothing is better than having a personal project to improve your skills.
+
+I'm still playing with the idea of creating my stream platform named GeFlix 😁, it'll be just a Single Page Application(SPA) built with Angular. However, I'm enjoying making it from scratch using Figma.
+
+I'm also anxiously waiting for using Sora AI for the movie trailers, I'll input some crazy ideas in ChatGPT 4 to create an amazing movie synopsis.
+
+## Tools:
+ - Angular 17
+ - Typescript
+ - Figma
+ - ChatGPT 4
+ - Leonardo AI
+ - Sora AI
+
+![image](https://github.com/Geraldoab/Geraldoab/assets/3846304/49781bfa-c520-4a0b-bdee-fcaa6c105296)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldo-borges-0570b450) 
